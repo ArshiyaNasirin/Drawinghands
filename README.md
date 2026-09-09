@@ -138,8 +138,5 @@ python gesture_canvas_manipulation.py
 3. **Closing Shapes:** To create solid 3D geometric shapes (square, circle, triangle), make sure to **close the loop** by returning to your starting point.
 4. **Deliberate Gestures:** Hold distinct poses clearly for smooth transitions.
 
----
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
