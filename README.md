@@ -1,4 +1,4 @@
-# 🖐️ Magic Hand — AI-Powered Air Drawing & 3D Spatial Manipulation
+# 🖐️ Drawing Hands — AI-Powered Air Drawing & 3D Spatial Manipulation
 
 > **An interactive computer vision application that lets you draw in thin air, auto-generate 3D geometric objects, and manipulate them with natural hand gestures in real time using a standard webcam.**
 
